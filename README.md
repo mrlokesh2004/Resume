@@ -1,6 +1,5 @@
-<!DOCTYPE html>
+
 <html>
-<title>resume</title>
 <body>
 <img src="L:\LOKESH.jpg" height="200" width="200" align="right"/>
 <h1>LOKESH SHRIKHANDE</h1>
