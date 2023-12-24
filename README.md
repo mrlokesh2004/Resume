@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<img src="[[https://static.wikia.nocookie.net/doraemon/images/8/8d/Doraemon_%282017_Remake%29.png/revision/latest?cb=20230908064228&path-prefix=en](https://static.wikia.nocookie.net/doraemon/images/8/8d/Doraemon_%282017_Remake%29.png/revision/latest?cb=20230908064228&path-prefix=en)](https://static.wikia.nocookie.net/doraemon/images/8/8d/Doraemon_%282017_Remake%29.png/revision/latest?cb=20230908064228&path-prefix=en)" height="200" width="200" align="right"/>
+<img src="https://variety.com/wp-content/uploads/2014/05/doraemon2.jpg?w=1024" height="200" width="200" align="right"/>
 <h1>LOKESH SHRIKHANDE</h1>
 <p>lokeshshrikhande04@gmail.com</p>
 <p>
