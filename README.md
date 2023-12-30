@@ -55,6 +55,7 @@
 <ul>
 <li>Participate in Mobile App Development (STC)Organized by G H Raisoni College of Commerce Science & Technology.
 <li>Participate in Dr . Homi Bhabha Exam 
+<li>Participate in Maharashtra state Council of Examination,pune. 
 </ul>
 <h2>PERSONAL INFORMATION :</h2>
 <p>Date Of Birth :22/12/2004</p>
