@@ -22,7 +22,17 @@
   <th>year</th>
   <th>result</th>
 </tr>
-<tr>
+
+  <tr>
+
+<td>BCA 2<sup>ST</sup>YEAR</td>
+<td>G H RAISONI COLLEGE OF COMMERCE SCIENCE & TECHNOLOGY,NAGPUR</td>
+<td>2024</td>
+<td>64%</td>
+
+</tr>
+  
+  <tr>
 
 <td>BCA 1<sup>ST</sup>YEAR</td>
 <td>G H RAISONI COLLEGE OF COMMERCE SCIENCE & TECHNOLOGY,NAGPUR</td>
@@ -54,7 +64,22 @@
 <li>Typing
 <li>Data Entry
 <li>C & C++ 
-</ol>
+<li>PL/SQL
+<li>SQL
+<li>Visual Basic
+<li>VB.Net
+<li>Data Structure
+<li>HTML
+<li>CSS
+<li>JavaScript
+<li>linux
+<li>Data Base Management System
+<li>Operating Systems 
+<li>JSP
+<li>VB Script
+<li>PHP
+
+  </ol>
 
 <h2>EXTRA CURRICULAR ACTIVITIES:</h2>
 <ul>
@@ -73,7 +98,7 @@
 <h2>DECLARATION :</h2>
 <p>I hereby acknowledge that the information furnished above is correct to the best of my knowledge.</p>
 
-<h3>DATE :-25 DECEMBER 2023</h3>
+<h3>DATE :-04 AUGUST 2024</h3>
 
 <body>
 
