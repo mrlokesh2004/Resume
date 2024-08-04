@@ -10,7 +10,7 @@
 <h1>LOKESH SHRIKHANDE</h1>
 <p>lokeshshrikhande04@gmail.com</p>
 <p>
-<i><b>OBJECTIVE:</b>To acquire a challenging position on the basis of my knowledge in line with the organisation’s Target and Objectives.</i>
+<i><b>OBJECTIVE:</b></i>To acquire a challenging position on the basis of my knowledge in line with the organisation’s Target and Objectives.
 </p>
 <p>I ❤️ WEB DEVELOPMENT. </p>
 <hr>
