@@ -17,10 +17,10 @@
 <h2>ACADEMIC QUALIFICATION :</h2>
 <table border="">
 <tr>
-  <th>course</th>
-  <th>institute</th>
-  <th>year</th>
-  <th>result</th>
+  <th>COURSE</th>
+  <th>INSTITUTE</th>
+  <th>YEAR</th>
+  <th>PERCENTAGE</th>
 </tr>
 
   <tr>
