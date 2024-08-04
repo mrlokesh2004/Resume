@@ -1,0 +1,42 @@
+h1{
+
+color:aqua;
+}
+
+p{
+color:rgb(102, 255, 153);
+}
+
+i{
+color:rgb(204, 102, 255) ;
+}
+h2{
+color:rgb(204, 102, 255);
+}
+tr{
+color:white;
+}
+
+ol{
+color:white;
+}
+
+ul{
+color:white;
+}
+
+#headingTwo {
+color: green  ;
+}
+
+div{
+color:blue;
+}
+
+h3{
+color:rgba(241,212,154,255);
+}
+
+body{
+background-color:black;
+}
