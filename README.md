@@ -25,7 +25,7 @@
 
   <tr>
 
-<td>BCA 2<sup>ST</sup>YEAR</td>
+<td>BCA 2<sup>ND</sup>YEAR</td>
 <td>G H RAISONI COLLEGE OF COMMERCE SCIENCE & TECHNOLOGY,NAGPUR</td>
 <td>2024</td>
 <td>64%</td>
