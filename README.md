@@ -1,7 +1,12 @@
 
 <html>
+
+  <head>
+<link rel="stylesheet" href="style1.css">
+</head>
+
 <body>
-<a href="https://instagram.fpnq7-6.fna.fbcdn.net/v/t51.2885-19/385714640_735544631714008_6704572076595178355_n.jpg?stp=dst-jpg_s320x320&amp;_nc_ht=instagram.fpnq7-6.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=RLJUb6Dpr7wAX-IviMd&amp;edm=AOQ1c0wBAAAA&amp;ccb=7-5&amp;oh=00_AfAflvLFhJaHqg6Y4KbR1Dixgre5c96fJftI1VWN5R7YSQ&amp;oe=65FC5035&amp;_nc_sid=8b3546" target="_blank" align="left"><h2>PROFILE IMAGEE</h2></a>
+<a href="https://instagram.fnag10-1.fna.fbcdn.net/v/t51.2885-19/385714640_735544631714008_6704572076595178355_n.jpg?_nc_ht=instagram.fnag10-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=dH1m9Mdzs0AQ7kNvgFQsdQP&amp;gid=705df4926bd0493295d149464a2f37a0&amp;edm=APHcPcMBAAAA&amp;ccb=7-5&amp;oh=00_AYCBmFdHtBeK_r_R_KOJeQhcGOKOLQ9QzK-6b_quKeZLKQ&amp;oe=66B51A75&amp;_nc_sid=bef7bc" target="_blank" align="left"><h2>PROFILE IMAGEE</h2></a>
 <h1>LOKESH SHRIKHANDE</h1>
 <p>lokeshshrikhande04@gmail.com</p>
 <p>
