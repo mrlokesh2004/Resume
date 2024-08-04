@@ -78,8 +78,7 @@
 <li>JSP
 <li>VB Script
 <li>PHP
-
-  </ol>
+</ol>
 
 <h2>EXTRA CURRICULAR ACTIVITIES:</h2>
 <ul>
